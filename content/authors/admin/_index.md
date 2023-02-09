@@ -64,5 +64,5 @@ highlight_name: true
 I am a second-year Ph.D. student at [Peking University](https://www.pku.edu.cn). Prior to my graduate school, I received B.A. in Economics and B.S. in Mathematics at [Wuhan University](https://www.whu.edu.cn).
 {style="text-align: justify;"}
 
-My research interests include development economics and economics of education..
+My research interests include development economics and economics of education.
 {style="text-align: justify;"}
