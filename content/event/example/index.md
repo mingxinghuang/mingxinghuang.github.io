@@ -41,7 +41,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'https://polite-boba-4a69f4.netlify.app/slides/example/'
+url_slides: 'https://github.com/mingxinghuang/myweb/blob/main/static/uploads/resume.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
